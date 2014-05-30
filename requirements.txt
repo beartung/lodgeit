@@ -1,0 +1,8 @@
+Babel
+Jinja2
+MarkupSafe
+PIL
+Pygments
+SQLAlchemy
+Werkzeug
+simplejson
